@@ -32,6 +32,6 @@ A cloud-native, microservice-based system designed to solve urban parking challe
 
 ## 📸 Eureka Dashboard Screenshot
 
-![Eureka Dashboard](./docs/screenshots/eureka_dashboard.png)
+![Eureka Dashboard](./doc/screenshots/eureka_dashboard.png)
 
 ---
